@@ -1,0 +1,9 @@
+[submodule "lib/sd-card"]
+	path = lib/sd-card
+	url = https://github.com/besi/kicad-sd-card
+[submodule "lib/c3-pico"]
+	path = lib/c3-pico
+	url = https://github.com/besi/kicad-c3-pico
+[submodule "lib/uda1334"]
+	path = lib/uda1334
+	url = https://github.com/besi/kicad-uda1334
