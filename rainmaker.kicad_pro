@@ -482,7 +482,7 @@
       "plot": "plot",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "rainmaker_pcb.step",
       "svg": "",
       "vrml": ""
     },
