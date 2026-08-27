@@ -14,7 +14,7 @@ from wavplayer import WavPlayer
 
 
 I2S_ID = 0
-BUFFER_LENGTH_IN_BYTES = 2000
+BUFFER_LENGTH_IN_BYTES = 20000
 
 
 wp = WavPlayer(
@@ -29,5 +29,4 @@ mute.off()
 
 wp.play("rain.wav", loop=True)
 while wp.isplaying() == True:
-    pass
-
+    time.sleep(.5)
