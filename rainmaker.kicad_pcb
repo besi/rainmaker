@@ -539,7 +539,7 @@
 		)
 		(model "${KIPRJMOD}/lib/c3-pico/c3-pico.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 11)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1708,7 +1708,7 @@
 		)
 		(model "${KIPRJMOD}/lib/uda1334/uda1334.pretty/uda1334.step"
 			(offset
-				(xyz -10 15 2.5)
+				(xyz -10 15 11)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1719,7 +1719,7 @@
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x09_P2.54mm_Vertical.wrl"
 			(offset
-				(xyz -10 10 2.5)
+				(xyz -10 10 11)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1730,7 +1730,7 @@
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl"
 			(offset
-				(xyz 10.3 7.5 2.5)
+				(xyz 10.3 7.5 11)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1741,7 +1741,7 @@
 		)
 		(model "${KIPRJMOD}/lib/uda1334/uda1334.pretty/jack.step"
 			(offset
-				(xyz 0 -20.5 6.5)
+				(xyz 0 -20.5 15)
 			)
 			(scale
 				(xyz 1 1 1)
